@@ -14,5 +14,11 @@ A basic C program that suggests new friends for Facebook users based on the numb
 - **ordering.c:** Contains the driver code for the program.
 - **suggestions.c:** Contains the driver code for the program.
 
+## The Program
+- Program is ran, you enter the name of the first user then input their friends. Repeat for all six users.
+- Each user has a maximum of 4 friends 
+- You then select the user you want to get friends suggestions for and they are displayed.
+
+Problem Specification can be found here.
 ## Author
 - Ahmed Jouda
