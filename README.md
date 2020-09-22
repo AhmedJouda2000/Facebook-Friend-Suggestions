@@ -10,15 +10,17 @@ A basic C program that suggests new friends for Facebook users based on the numb
 
 ## Contents
 - **main.c:** Contains the driver code for the program.
-- **input.c:** Contains the driver code for the program.
-- **ordering.c:** Contains the driver code for the program.
-- **suggestions.c:** Contains the driver code for the program.
+- **input.c:** Contains the code that asks the user to provide as input the friends of a Facebook user.
+- **ordering.c:** Using selection sort, orders suggestions according to number of their friends. If they have the same number of friends order alphabetically.
+- **suggestions.c:** Contains the code that decides who are the suggestions for the selected user.
+- **prototypes.c:** Header file that contains the functions' prototypes.
 
 ## The Program
+![Pic](FBsuggestions.JPG)
 - Program is ran, you enter the name of the first user then input their friends. Repeat for all six users.
 - Each user has a maximum of 4 friends 
 - You then select the user you want to get friends suggestions for and they are displayed.
 
-Problem Specification can be found here.
+Problem Specification can be found [here.](https://docs.google.com/document/d/1NfRtzl-IRb-Ubu7RJvzIm9wY-gXtb6pxxenbYJtyaXM/edit#heading=h.cjxwdc55cy8r)
 ## Author
 - Ahmed Jouda
